@@ -1,6 +1,4 @@
-package OperaçõesBasicas;
-
-import OperaçõesBasicas.Item;
+package LIST.OperaçõesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;

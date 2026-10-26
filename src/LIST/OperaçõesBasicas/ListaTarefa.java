@@ -1,6 +1,5 @@
-package OperaçõesBasicas;
+package LIST.OperaçõesBasicas;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 
